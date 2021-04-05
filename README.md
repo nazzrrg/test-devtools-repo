@@ -2,7 +2,5 @@
 * impoopa
 * imloopa
 * im buhgalter miliy your buhgalter
-'''
-print("hello, lab 3")
 
-'''
+for other release
